@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on exciting mobile application projects
 - 🤔 I’m looking for help with optimizing app performance
 - 💬 Ask me about Java, Flutter, or anything tech-related
-- 📫 How to reach me: [rohitbagadeww@gmail.com](mailto:rohitbagadeww@gmail.com)
-- ⚡ Fun fact: I enjoy solving puzzles and exploring new places
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
