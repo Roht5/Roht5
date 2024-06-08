@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [rohitbagadeww@gmail.com](mailto:rohitbagadeww@gmail.com)
 - ⚡ Fun fact: I enjoy solving puzzles and exploring new places
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
   
 ### Technologies & Tools
 - **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white), ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
